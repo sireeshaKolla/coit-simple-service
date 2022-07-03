@@ -9,6 +9,12 @@
 
 ## Running the container
 ` $ docker run -d -p 80:80 $DOCKER_USER_ID/sentiment-analysis-frontend `
-#changes made by siree
+<<<<<<< HEAD
+#changes made by sireesha
 ## Pushing the container
 ` $ docker push $DOCKER_USER_ID/sentiment-analysis-frontend `
+=======
+
+## Pushing the container
+` $ docker push $DOCKER_USER_ID/sentiment-analysis-frontend `
+>>>>>>> 8fa1cce75fae2965f9b3bd513d742d9eee2bc4e1
